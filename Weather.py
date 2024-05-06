@@ -16,7 +16,7 @@ def get_weather():
             elif temperature_format.get() == 'Fahrenheit':
                 temp_label.config(text=f'Temperature: {temperature * 9/5 + 32} °F')
         except Exception as e:
-            messagebox.showerror('Error', f'An error occurred: {e}')
+            messagebox.showerror('ERROR', f'An error occurred: {e}')
     else:
         messagebox.showwarning('Caution', 'Please enter a city name')
 
