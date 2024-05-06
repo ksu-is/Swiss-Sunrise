@@ -23,7 +23,6 @@ def get_weather():
 root = tk.Tk()
 root.title('Swiss Sunrise')
 root.geometry('700x700')
-root.background('Green')
 
 header_label = tk.Label(root, text='Swiss Sunrise', font=('Times New Roman', 18))
 header_label.pack(pady=10)
