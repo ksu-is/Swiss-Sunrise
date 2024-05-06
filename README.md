@@ -34,6 +34,6 @@ Use the dropdown menu to select the temperature format (Celsius or Fahrenheit).
 
 
 ## Usage
-Clone the repository: git clone https://github.com/your_username/weather-forecast-app.git
+ - Copy the repository: git copy https://github.com/your_username/weather-forecast-app.git
 Navigate to the project directory.
-Run the Python script: python Weather_forecast_app.py
+ - Run the Python script: Weather.py
