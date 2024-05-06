@@ -3,7 +3,7 @@ Repository for a weather display application.
 
 ## About
 
-This repository contains Swiss Sunrise, which is a project that 
+This repository contains Swiss Sunrise, which is a project that is meant to target general audiences of almost all ages (age 5-99 mainly) and they need this to figure out their daily activities such as driving to work, doing outdoor activities like hiking, cycling, running, swimming, playing sports, walking with the dog, etc. Or maybe they just want to stay informed about present weather conditions like it being too windy. 
 
 
 Swiss Sunrise
