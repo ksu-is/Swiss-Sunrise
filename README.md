@@ -25,7 +25,7 @@ View temperature in Celsius or Fahrenheit
 Simple and intuitive user interface
 
 
-##How to Use
+## How to Use
 Run the Python script weather_forecast.py.
 Enter the name of the city you want to check the weather for in the input field.
 Click the "Search" button.
@@ -33,7 +33,7 @@ The temperature for the specified city will be displayed below.
 Use the dropdown menu to select the temperature format (Celsius or Fahrenheit).
 
 
-##Usage
+## Usage
 Clone the repository: git clone https://github.com/your_username/weather-forecast-app.git
 Navigate to the project directory.
 Run the Python script: python Weather_forecast_app.py
