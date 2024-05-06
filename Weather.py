@@ -18,11 +18,12 @@ def get_weather():
         except Exception as e:
             messagebox.showerror('Error', f'An error occurred: {e}')
     else:
-        messagebox.showwarning('Warning', 'Please enter a city name')
+        messagebox.showwarning('Caution', 'Please enter a city name')
 
 root = tk.Tk()
 root.title('Swiss Sunrise')
 root.geometry('700x700')
+root.background('Green')
 
 header_label = tk.Label(root, text='Swiss Sunrise', font=('Times New Roman', 18))
 header_label.pack(pady=10)
