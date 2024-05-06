@@ -35,6 +35,6 @@ Simple and intuitive user interface
 
 
 ## Usage
- - Copy the repository: git copy https://github.com/your_username/weather-forecast-app.git
+ - Copy the repository: git copy https://github.com/ksu-is/Swiss-Sunrise/blob/main/Weather.py
 Navigate to the project directory.
  - Run the Python script: Weather.py
